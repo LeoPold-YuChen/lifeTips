@@ -1,0 +1,10 @@
+公開儲存庫(repo)
+- 不須設定PAT(personal access token)(個人令牌)即可透過https或ssh進行存取
+私密儲存庫
+- 必須被授權才可透過https或ssh進行存取(在知道對方公開金鑰的前提下)
+- 若是存取自己的私密可以選擇用https或ssh
+	- https:
+		- 必須先設定PAT才可進行存取
+	- ssh:
+		- 不須設定PAT，可直接透過ssh進行存取
+		- ssh的公鑰相當於PAT
