@@ -1,0 +1,13 @@
+## 
+
+資安 filetype:pdf
+intitle:資安 filetype:pdf
+intext:資安 filetype:pdf
+
+
+site:starbucks.com -> 將搜尋範圍限定在starbucks.com相關的連結
+abc site:starbucks.com -> 搜尋限定在starbucks.com相關的連結裡面與abc有關的網站
+
+google hacking database
+
+robots.txt -> 不允許搜尋引擎搜尋到這個目錄
